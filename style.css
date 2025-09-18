@@ -1,42 +1,42 @@
 body {
-  font-family: Arial, sans-serif; /* Fuente para el texto */
-  background-color: rgb(240, 240, 240); /* Color de fondo de la página */
-  padding: 5px; /* Espacio interno alrededor del contenido de la página */
-  border: 10px solid black; /* Borde: grosor, estilo y color */
+  font-family: Arial, sans-serif;
+  background-color: rgb(240, 240, 240);
+  padding: 5px;
+  border: 10px solid black;
 }
 
 h1 {
-  background-color: rgb(226, 225, 241); /* Color de fondo */
+  background-color: rgb(226, 225, 241);
 }
 
 h2 {
-  background-color: rgb(241, 204, 208); /* Color de fondo */
+  background-color: rgb(241, 204, 208);
 }
 
 select {
-  width: 300px; /* Ancho del recuadro */
-  height: 30px; /* Alto del recuadro */
-  background-color: rgb(139, 231, 182); /* Color de fondo */
-  border: 2px white; /* Borde: grosor, estilo y color */
+  width: 300px;
+  height: 30px;
+  background-color: rgb(139, 231, 182);
+  border: 2px white;
 }
 h3 {
-  background-color: rgb(241, 204, 208); /* Color de fondo */
+  background-color: rgb(241, 204, 208);
 }
 h4 {
   background-color: rgb(241, 204, 208);
 }
 
 input {
-  width: 300px; /* Ancho del recuadro */
-  height: 20px; /* Alto del recuadro */
-  background-color: whitesmoke; /* Color de fondo */
-  border: 2px solid black; /* Borde: grosor, estilo y color */
+  width: 300px;
+  height: 20px;
+  background-color: whitesmoke;
+  border: 2px solid black;
 }
 button {
-  background-color: rgb(56, 211, 128); /* Color de fondo */
-  border: 2px solid black; /* Borde: grosor, estilo y color */
-  width: 200px; /* Ancho del botón */
-  height: 25px; /* Alto del botón */
-  font-size: 15px; /* Tamaño de la fuente */
-  cursor: pointer; /* Cambia el cursor al pasar sobre el botón */
+  background-color: rgb(56, 211, 128);
+  border: 2px solid black;
+  width: 200px;
+  height: 25px;
+  font-size: 15px;
+  cursor: pointer;
 }
