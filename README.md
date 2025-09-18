@@ -1,1 +1,1 @@
-# Entrega-Final
+Para la entrega final se aplican las correcciones y sugerencias observadas en la Entrega-2, como por ejemplo añadir un historial dinamico de cotizaciones en el Local Storage. Se purifica y se hace mas prolijo el código y el DOM, se trabaja con varias actualizaciones de estilo tanto en el style.css como en el main.js, se añade un fetch de tarifas, se añade una libreria a traves de axios con usuarios aleatorios que simulan ser los que utilizan la aplicación.

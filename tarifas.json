@@ -1,0 +1,74 @@
+{
+  "RosBsAs": {
+    "costoBase": 2000,
+    "tarifas": [
+      { "limite": 100, "tarifa": 10000 },
+      { "limite": 150, "tarifa": 8500 },
+      { "limite": 200, "tarifa": 7000 },
+      { "limite": 250, "tarifa": 6500 },
+      { "limite": 300, "tarifa": 6000 },
+      { "limite": 350, "tarifa": 5500 },
+      { "limite": 400, "tarifa": 5000 },
+      { "limite": 450, "tarifa": 4500 },
+      { "limite": 500, "tarifa": 4000 },
+      { "limite": 550, "tarifa": 3500 },
+      { "limite": 600, "tarifa": 3000 },
+      { "limite": 650, "tarifa": 2500 },
+      { "limite": 700, "tarifa": 2000 },
+      { "limite": 750, "tarifa": 1500 },
+      { "limite": 800, "tarifa": 1000 },
+      { "limite": 850, "tarifa": 900 },
+      { "limite": 900, "tarifa": 800 },
+      { "limite": 950, "tarifa": 700 },
+      { "limite": 1000, "tarifa": 600 }
+    ]
+  },
+  "BsAsCba": {
+    "costoBase": 2500,
+    "tarifas": [
+      { "limite": 100, "tarifa": 12000 },
+      { "limite": 150, "tarifa": 10000 },
+      { "limite": 200, "tarifa": 9000 },
+      { "limite": 250, "tarifa": 8000 },
+      { "limite": 300, "tarifa": 7000 },
+      { "limite": 350, "tarifa": 6000 },
+      { "limite": 400, "tarifa": 5000 },
+      { "limite": 450, "tarifa": 4000 },
+      { "limite": 500, "tarifa": 3500 },
+      { "limite": 550, "tarifa": 3000 },
+      { "limite": 600, "tarifa": 2500 },
+      { "limite": 650, "tarifa": 2000 },
+      { "limite": 700, "tarifa": 1500 },
+      { "limite": 750, "tarifa": 1200 },
+      { "limite": 800, "tarifa": 1000 },
+      { "limite": 850, "tarifa": 900 },
+      { "limite": 900, "tarifa": 800 },
+      { "limite": 950, "tarifa": 700 },
+      { "limite": 1000, "tarifa": 600 }
+    ]
+  },
+  "RosCba": {
+    "costoBase": 3000,
+    "tarifas": [
+      { "limite": 100, "tarifa": 15000 },
+      { "limite": 150, "tarifa": 13000 },
+      { "limite": 200, "tarifa": 11000 },
+      { "limite": 250, "tarifa": 9000 },
+      { "limite": 300, "tarifa": 8000 },
+      { "limite": 350, "tarifa": 7000 },
+      { "limite": 400, "tarifa": 6000 },
+      { "limite": 450, "tarifa": 5000 },
+      { "limite": 500, "tarifa": 4000 },
+      { "limite": 550, "tarifa": 3500 },
+      { "limite": 600, "tarifa": 3000 },
+      { "limite": 650, "tarifa": 2500 },
+      { "limite": 700, "tarifa": 2000 },
+      { "limite": 750, "tarifa": 1500 },
+      { "limite": 800, "tarifa": 1200 },
+      { "limite": 850, "tarifa": 1000 },
+      { "limite": 900, "tarifa": 900 },
+      { "limite": 950, "tarifa": 800 },
+      { "limite": 1000, "tarifa": 700 }
+    ]
+  }
+}

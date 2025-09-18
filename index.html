@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Simulador Transporte</title>
+  </head>
+  <body>
+    <h1 id="encabezado">Simulador de Transporte (Max. 1000 kg)</h1>
+
+    <h2 id="ciudadDeOrigen">Ciudad de origen:</h2>
+    <select id="origen">
+      <option value="rosario">Rosario</option>
+      <option value="buenos aires">Buenos Aires</option>
+      <option value="cordoba">Córdoba</option>
+    </select>
+
+    <h3 id="ciudadDeDestino">Ciudad de destino:</h3>
+    <select id="destino">
+      <option value="rosario">Rosario</option>
+      <option value="buenos aires">Buenos Aires</option>
+      <option value="cordoba">Córdoba</option>
+    </select>
+
+    <h4 id="pesoEnkg">Peso (kg):</h4>
+    <input type="number" id="peso" />
+
+    <button id="calcular">Calcular Costo</button>
+
+    <h5 id="resultado"></h5>
+
+    <link rel="stylesheet" href="./style.css" />
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+
+    <script src="./main.js"></script>
+  </body>
+</html>
